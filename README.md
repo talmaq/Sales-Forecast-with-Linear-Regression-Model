@@ -45,11 +45,6 @@ The results of the Linear Regression model are plotted to show the actual vs. pr
 
 Performance metrics like MSE, MAE, and R² are calculated to evaluate the model's accuracy.
 
-Example visualization:
-
-
-This plot shows how closely the model's predictions match the actual sales data.
-
 Contributing
 Contributions are welcome! If you have ideas to improve the project or find a bug, feel free to open an issue or submit a pull request.
 
