@@ -35,18 +35,6 @@ The aim of this project is to build a sales forecasting model using a Linear Reg
 
 > **Note:** Make sure your dataset is placed in the root directory of the project with the name `train.csv`.
 
-## Project Structure
-
-\`\`\`plaintext
-Sales-Forecast-Linear-Regression/
-│
-├── sales_forecast.ipynb      # Jupyter Notebook containing the full analysis and model development
-├── train.csv                 # CSV file containing the sales data (ensure this is present)
-├── README.md                 # Project README file (you are reading this!)
-├── requirements.txt          # List of dependencies required to run the project
-└── results/                  # Directory to store results, plots, etc.
-\`\`\`
-
 ## Installation
 
 To run this project, you will need to have Python installed along with the following Python packages:
@@ -63,34 +51,6 @@ pip install -r requirements.txt
 \`\`\`
 
 > Ensure you are using a Python environment to avoid conflicts with other projects.
-
-## Usage
-
-1. **Clone the Repository:**
-
-   \`\`\`bash
-   git clone https://github.com/yourusername/Sales-Forecast-Linear-Regression.git
-   \`\`\`
-
-2. **Navigate to the Project Directory:**
-
-   \`\`\`bash
-   cd Sales-Forecast-Linear-Regression
-   \`\`\`
-
-3. **Run the Jupyter Notebook:**
-
-   Start Jupyter Notebook in your terminal:
-
-   \`\`\`bash
-   jupyter notebook
-   \`\`\`
-
-   Open the `sales_forecast.ipynb` file and run the cells step-by-step to see the analysis, model training, and results.
-
-4. **View Results:**
-
-   The notebook will display visualizations comparing actual sales with the model's predictions. Evaluate the model using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²).
 
 ## Results
 
