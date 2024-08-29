@@ -96,11 +96,6 @@ pip install -r requirements.txt
 
 - The results of the Linear Regression model are plotted to show the actual vs. predicted sales.
 - Performance metrics like MSE, MAE, and R² are calculated to evaluate the model's accuracy.
-- Example visualization:
-
-  ![Sales Forecast Plot](results/sales_forecast_plot.png)
-
-  > This plot shows how closely the model's predictions match the actual sales data.
 
 ## Contributing
 
