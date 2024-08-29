@@ -44,12 +44,6 @@ To run this project, you will need to have Python installed along with the follo
 - Matplotlib
 - scikit-learn
 
-You can install all required packages using the following command:
-
-\`\`\`bash
-pip install -r requirements.txt
-\`\`\`
-
 > Ensure you are using a Python environment to avoid conflicts with other projects.
 
 ## Results
@@ -57,6 +51,3 @@ pip install -r requirements.txt
 - The results of the Linear Regression model are plotted to show the actual vs. predicted sales.
 - Performance metrics like MSE, MAE, and R² are calculated to evaluate the model's accuracy.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
