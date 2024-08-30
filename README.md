@@ -6,12 +6,8 @@ This project demonstrates how to use a Linear Regression model to forecast month
 
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
-3. [Project Structure](#project-structure)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+3. [Installation](#installation)
+4. [Results](#results)
 
 ## Project Overview
 
